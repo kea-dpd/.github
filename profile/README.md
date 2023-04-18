@@ -6,7 +6,9 @@
 
 This international elective programme will run for the first time from August 2023 - to X-mas 2023.
 
-<details><summary><b>Preliminary semester plan</b></summary>
+
+## Prelimiary plans
+<details><summary><b>Semester plan</b> (click to expand)</summary>
 
 ---
 ```mermaid
@@ -99,5 +101,70 @@ We will be running an intense semester - allowing us to finish the examn and off
 ---
 </details>
 
-<details><summary><b>Preliminary organization</b></summary>
+<details><summary><b>Organization</b> (click to expand)</summary>
+
+---
+#### A co-workspace dedicated to just us
+We will have a classroom dedicated only to this elective. It will be available and accessible around the clock thoroughout the entire semester. It will be like a joint co-workspace. So you are encourgaed to spend time here, when you are not out an about getting feedback for endusers or product sponsors. So that the entire class can benfit from each other's synergies and enthusiasm.
+
+#### We are three main instructors:
+
+- [Ida](https://www.linkedin.com/in/idawinberghemmingsen/) (Multi media design)
+- [Mikkel](https://www.linkedin.com/in/mikkel-wessel-nielsen/) (Business economics and IT) 
+- [Lars](https://www.linkedin.com/in/lakruzz/) (Computer science)
+
+...besides us, we will pull in more resources as we need them.
+
+#### Bringing order to chaos (what does a typical week looke like?)
+
+You will be working a lot in the individual teams, occasionally together with your external product sponsors and product end-users. but (at least) on three occasions each week during the semester will will gather the entire class.
+
+```mermaid
+%%{
+    init: { 
+        'logLevel': 'debug',
+        'theme': 'emerald' ,
+        'themeVariables': {
+            fontFamily : 'Oswald'
+        }
+    }
+ }%%
+    
+timeline
+    title Digital Product Development - A typical week
+      Monday    : Thank god its Monday
+                : &nbsp;
+      Tuesday   : &nbsp;
+      Wednesday : Workshops and labs
+                : &nbsp;
+      Thursday  : &nbsp;
+      Friday    : Communication & Planning
+                : &nbsp;
+```
+
+#### Thank god its Monday
+Is equvivalent to Google's renowned  _Thank god it's Friday - it's an all hands-on-deck session Where we will motivate each others, share thoughts. Get the week started with a boost. One of us will be there from mornin gto lunch to facilitate.
+
+#### Workshops and labs
+As we work our way into the products it will become clear that new knowledge must be obtained, new tech stacks must be concured, new tools must be learned, more theory must be chrunched. We will offer a new workshop on something relevant each wednesday from morning until lunch. Topics will be - whatever is needed in the context.
+
+#### Communication and Planning
+Each Friday you must wrap up your week with a status report on you progress to be shared firstly with your product sponsor (and secondly to be presented at your final examn). You will probably also need an internal team retrospective to discuss and maybe adjust your roles in the team and finally you will need to look ahead into the upcomming week. Go through your backlog, priritize your tasks. One of us will be with your from morning until lunch to facilitate this endeavour and to guide you if you have questions.
+
+#### Fill in the blanks
+The blank spots in a typical week is where the team will focus on team stuff. But it doesn't mean that you are on your own. Each team will be given a pile of jetons at the begining of the semester, which can be traded in for guidance, coaching, mentoring and facilitations as you need it. We will make our calendars available to you, so you can book us in our availabel time slots.
+
+---
+</details>
+
+<details><summary><b>Didactic approach</b> (click to expand)</summary>
+
+---
+Our didactic focus throughtout this elective will be inspired by forming a _Community of Practice_ [Lave & Wenger] and on facilitating _reflective practitioners_ [Schön]. 
+
+These didactive disiplines support each other in the way they both argue for a contemporary alternative to the traditional _master/apprentice_ relation in whihc the learnes is expected to absorb the knowledge pored from the teacher. [Lave & Wenger] introduce a _Community of Practice_ which can allow _legitimate peripheral participation_ for all new _learnes_. While [Schön] argues for establishing a _practicum_ in which the learner can train to hear to the _situation's back-talk_ and practice _reflection on action_ as a means to obtail the proficiency that is requireed to eventually practice _reflection in action_.
+
+In short, _"Failure is not an option - it's a prerequsite"_. Your first product will not be perfect, you will experience frustration, but you will produce something and you are guaranteed to learn a lot!
+
+---
 </details>
