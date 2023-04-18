@@ -7,8 +7,8 @@
 This international elective programme will run for the first time from August 2023 - to X-mas 2023.
 
 
-## Prelimiary plans
-<details><summary><b>Semester plan</b> (click to expand)</summary>
+##  Details
+<details><summary><b>Prelimiary semester plan</b> (click to expand)</summary>
 
 ---
 ```mermaid
@@ -165,6 +165,15 @@ Our didactic focus throughtout this elective will be inspired by forming a _Comm
 These didactive disiplines support each other in the way they both argue for a contemporary alternative to the traditional _master/apprentice_ relation in whihc the learnes is expected to absorb the knowledge pored from the teacher. [Lave & Wenger] introduce a _Community of Practice_ which can allow _legitimate peripheral participation_ for all new _learnes_. While [Schön] argues for establishing a _practicum_ in which the learner can train to hear to the _situation's back-talk_ and practice _reflection on action_ as a means to obtail the proficiency that is requireed to eventually practice _reflection in action_.
 
 In short, _"Failure is not an option - it's a prerequsite"_. Your first product will not be perfect, you will experience frustration, but you will produce something and you are guaranteed to learn a lot!
+
+---
+</details>
+
+<details><summary><b>More materials</b> (click to expand)</summary>
+
+---
+- [Official description of this elective @ kea.dk (Fall 2022 )](https://katalog.kea.dk/course/preview/5340/en-GB)
+- [Fancy PDF presentaion (work in progress)](https://drive.google.com/file/d/1p-hPY27ESRevpEuU9T9lrWLXegjt8hgi/view?usp=share_link)
 
 ---
 </details>
