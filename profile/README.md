@@ -119,6 +119,7 @@ We will have a classroom dedicated only to this elective. It will be available a
 
 You will be working a lot in the individual teams, occasionally together with your external product sponsors and product end-users. but (at least) on three occasions each week during the semester will will gather the entire class.
 
+
 ```mermaid
 %%{
     init: { 
@@ -129,17 +130,17 @@ You will be working a lot in the individual teams, occasionally together with yo
         }
     }
  }%%
-    
+ 
 timeline
     title Digital Product Development - A typical week
       Monday    : Thank god its Monday
-                : &nbsp;
-      Tuesday   : &nbsp;
+                : Team
+      Tuesday   : Team
       Wednesday : Workshops and labs
-                : &nbsp;
-      Thursday  : &nbsp;
+                : Team
+      Thursday  : Team
       Friday    : Communication & Planning
-                : &nbsp;
+                : Team
 ```
 
 #### Thank god its Monday
@@ -151,9 +152,11 @@ As we work our way into the products it will become clear that new knowledge mus
 #### Communication and Planning
 Each Friday you must wrap up your week with a status report on you progress to be shared firstly with your product sponsor (and secondly to be presented at your final examn). You will probably also need an internal team retrospective to discuss and maybe adjust your roles in the team and finally you will need to look ahead into the upcomming week. Go through your backlog, priritize your tasks. One of us will be with your from morning until lunch to facilitate this endeavour and to guide you if you have questions.
 
-#### Fill in the blanks
-The blank spots in a typical week is where the team will focus on team stuff. But it doesn't mean that you are on your own. Each team will be given a pile of jetons at the begining of the semester, which can be traded in for guidance, coaching, mentoring and facilitations as you need it. We will make our calendars available to you, so you can book us in our availabel time slots.
+#### Team: Fill in the blanks
+The Team spots are blank spots. In a typical week this is where the team will focus on team stuff. But it doesn't mean that you are on your own. Each team will be given a pile of jetons at the begining of the semester, which can be traded in for guidance, coaching, mentoring and facilitations as you need it. We will make our calendars available to you, so you can book us in our availabel time slots.
 
+#### "Intro" and "Meet the sponsors" are different
+The first two sections of the semester are not typical weeks; in the first 3 intro weeks we will work a different program. And the two weeks set aside to iderate and innovate with the product sponsors will also be slightly different.
 ---
 </details>
 
