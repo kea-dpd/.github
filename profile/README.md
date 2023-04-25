@@ -139,7 +139,7 @@ timeline
       Tuesday   : Workshops and labs
                 : Team
       Wednesday : Team
-      Thursday  : Iderate and Communication
+      Thursday  : Ideation and Communication
                 : Team
       Friday    : Retrospective and Planning
                 : Team
@@ -151,7 +151,7 @@ Is equvivalent to Google's renowned  _Thank god it's Friday - it's an all hands-
 #### Workshops and labs
 As we work our way into the products it will become clear that new knowledge must be obtained, new tech stacks must be concured, new tools must be learned, more theory must be chrunched. We will offer a new workshop on something relevant each wednesday from morning until lunch. Topics will be - whatever is needed in the context.
 
-#### Iderate and Communication
+#### Ideation and Communication
 On Thursdays you will write-up a formal status to your product spoonsor (and your own portfolio) and spend some time thinking out of the box - what are your options from here? One of us will be there from morning to lunch to facilitate.
 
 #### Retrospective and Planning
