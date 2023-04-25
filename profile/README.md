@@ -112,6 +112,7 @@ We will have a classroom dedicated only to this elective. It will be available a
 - [Ida](https://www.linkedin.com/in/idawinberghemmingsen/) (Multi media design)
 - [Mikkel](https://www.linkedin.com/in/mikkel-wessel-nielsen/) (Business economics and IT) 
 - [Lars](https://www.linkedin.com/in/lakruzz/) (Computer science)
+- [Herman](https://www.linkedin.com/in/hermanbailey/) (Multi media design)
 
 ...besides us, we will pull in more resources as we need them.
 
@@ -135,28 +136,33 @@ timeline
     title Digital Product Development - A typical week
       Monday    : Thank god its Monday
                 : Team
-      Tuesday   : Team
-      Wednesday : Workshops and labs
+      Tuesday   : Workshops and labs
                 : Team
-      Thursday  : Team
-      Friday    : Communication & Planning
+      Wednesday : Team
+      Thursday  : Iderate and Communication
+                : Team
+      Friday    : Retrospective and Planning
                 : Team
 ```
 
 #### Thank god its Monday
-Is equvivalent to Google's renowned  _Thank god it's Friday - it's an all hands-on-deck session Where we will motivate each others, share thoughts. Get the week started with a boost. One of us will be there from mornin gto lunch to facilitate.
+Is equvivalent to Google's renowned  _Thank god it's Friday - it's an all hands-on-deck session Where we will motivate each others, share thoughts. Get the week started with a boost. One of us will be there from morning to lunch to facilitate.
 
 #### Workshops and labs
 As we work our way into the products it will become clear that new knowledge must be obtained, new tech stacks must be concured, new tools must be learned, more theory must be chrunched. We will offer a new workshop on something relevant each wednesday from morning until lunch. Topics will be - whatever is needed in the context.
 
-#### Communication and Planning
-Each Friday you must wrap up your week with a status report on you progress to be shared firstly with your product sponsor (and secondly to be presented at your final examn). You will probably also need an internal team retrospective to discuss and maybe adjust your roles in the team and finally you will need to look ahead into the upcomming week. Go through your backlog, priritize your tasks. One of us will be with your from morning until lunch to facilitate this endeavour and to guide you if you have questions.
+#### Iderate and Communication
+On Thursdays you will write-up a formal status to your product spoonsor (and your own portfolio) and spend some time thinking out of the box - what are your options from here? One of us will be there from morning to lunch to facilitate.
+
+#### Retrospective and Planning
+Each Friday you will conduct an  internal team retrospective to discuss and maybe adjust your roles in the team and then you will need to look ahead into the upcomming week. Go through your backlog, priritize your tasks. One of us will be with your from morning until lunch to facilitate this endeavour and to guide you if you have questions.
 
 #### Team: Fill in the blanks
 The Team spots are blank spots. In a typical week this is where the team will focus on team stuff. But it doesn't mean that you are on your own. Each team will be given a pile of jetons at the begining of the semester, which can be traded in for guidance, coaching, mentoring and facilitations as you need it. We will make our calendars available to you, so you can book us in our availabel time slots.
 
 #### "Intro" and "Meet the sponsors" are different
 The first two sections of the semester are not typical weeks; in the first 3 intro weeks we will work a different program. And the two weeks set aside to iderate and innovate with the product sponsors will also be slightly different.
+
 ---
 </details>
 
