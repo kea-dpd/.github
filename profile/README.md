@@ -139,6 +139,7 @@ timeline
       Tuesday   : Workshops and labs
                 : Team
       Wednesday : Team
+                : Team
       Thursday  : Ideation and Communication
                 : Team
       Friday    : Retrospective and Planning
