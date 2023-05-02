@@ -167,7 +167,7 @@ The first two sections of the semester are not typical weeks; in the first 3 int
 ---
 </details>
 
-<details><summary>Teams and roles</summary>
+<details><summary><b>Teams and roles</b></summary>
 
 ---
 As participants at this elective you will work in team of at least six people. You will assume dedicated roles of proffesion, and each team vill have two team members in each role so you can spare and cover for each other.
