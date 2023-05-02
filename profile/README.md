@@ -167,6 +167,29 @@ The first two sections of the semester are not typical weeks; in the first 3 int
 ---
 </details>
 
+<details><summary>Teams and roles</summary>
+
+---
+As participants at this elective you will work in team of at least six people. You will assume dedicated roles of proffesion, and each team vill have two team members in each role so you can spare and cover for each other.
+
+#### Business Developers
+Will be responsible for covering knowledge, skills and compentencies regarding how to uncover and adjust the market fit of the product. Engage with the intented end-users, customer segmentation, overall planning. 
+
+#### UX'er and marketeer
+Will be responsible for covering knowledge, skills and compentencies regarding how to elicit data on the user experience, create delicious products that impress and delight, make onboarding easy and painless.
+
+#### Technologists
+Will be responsible for covering knowledge, skills and compentencies on how to choose the right tool stack, explore technology oppotunities, utilising as mush technology as effortless as possible.
+
+#### T-Shaped people
+With the roles described above, it's important to emphasize that you work as a team, and ideally you are all contributing to all areas - you will become _T-shaped;_ at the same time representing both broad knowledge, and yet specialized in certain fields. This is how a team covers most ground.
+
+You will be working intensely low-code and no-code tools simply to speed things up.
+
+---
+</details>
+
+
 <details><summary><b>Didactic approach</b> (click to expand)</summary>
 
 ---
