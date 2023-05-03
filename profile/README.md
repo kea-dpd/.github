@@ -207,6 +207,8 @@ In short, _"Failure is not an option - it's a prerequsite"_. Your first product 
 ---
 - [Official description of this elective @ kea.dk (Fall 2022 )](https://katalog.kea.dk/course/preview/5340/en-GB)
 - [Fancy PDF presentaion (work in progress)](https://drive.google.com/file/d/1p-hPY27ESRevpEuU9T9lrWLXegjt8hgi/view?usp=share_link)
+- [YouTube video presentation](https://www.youtube.com/watch?v=5P6H3BGQKAo)
+- [Discussion Forum - including Q&A session](https://github.com/orgs/kea-dpd/discussions/categories/q-a)
 
 ---
 </details>
