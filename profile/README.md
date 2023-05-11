@@ -7,10 +7,11 @@
 This international elective programme will run for the first time from August 2023 - to X-mas 2023.
 
 
-##  Details
-<details><summary><b>Prelimiary semester plan</b> (click to expand)</summary>
 
----
+<details open><summary><h2>Details</h2> (click to toggle expand/collapse)</summary>
+
+### Prelimiary semester plan
+
 ```mermaid
 %%{
     init: { 
@@ -98,10 +99,9 @@ Foot off the speeder. It's time to wrap up your learnings and prepare yourself f
 #### Examn
 We will be running an intense semester - allowing us to finish the examn and officialy end the term before X-mas so all international students can return home for the holidays.
 
----
 </details>
 
-<details><summary><b>Organization</b> (click to expand)</summary>
+<details open><summary><h2>Organization</h2> (click to toggle expand/collapse)</summary>
 
 ---
 #### A co-workspace dedicated to just us
@@ -164,12 +164,10 @@ The Team spots are blank spots. In a typical week this is where the team will fo
 #### "Intro" and "Meet the sponsors" are different
 The first two sections of the semester are not typical weeks; in the first 3 intro weeks we will work a different program. And the two weeks set aside to iderate and innovate with the product sponsors will also be slightly different.
 
----
 </details>
 
-<details><summary><b>Teams and roles</b></summary>
+<details open><summary><h2>Teams and roles</h2> (click to toggle expand/collapse)</summary>
 
----
 As participants at this elective you will work in team of at least six people. You will assume dedicated roles of proffesion, and each team vill have two team members in each role so you can spare and cover for each other.
 
 #### Business Developers
@@ -186,12 +184,10 @@ With the roles described above, it's important to emphasize that you work as a t
 
 You will be working intensely low-code and no-code tools simply to speed things up.
 
----
 </details>
 
-<details><summary><b>No-code and Low-code tools</b></summary>
+<details open><summary><h2>No-code and Low-code tools</h2> (click to toggle expand/collapse)</summary>
 
----
 **Think big - Start small - Scale fast**
 
 It's proverb often referred to in the SaaS (Software as a Service) and Product development communities.
@@ -266,29 +262,23 @@ The tools listed below are only a small fraction of what is available. We imagin
 - [AWS lambda](https://aws.amazon.com/lambda/)
 - [Google Cloud Functions](https://cloud.google.com/functions)
     
----    
 </details>
 
+<details open><summary><h2>Didactic approach</h2> (click to toggle expand/collapse)</summary>
 
-<details><summary><b>Didactic approach</b> (click to expand)</summary>
-
----
 Our didactic focus throughtout this elective will be inspired by forming a _Community of Practice_ [Lave & Wenger] and on facilitating _reflective practitioners_ [Schön]. 
 
 These didactive disiplines support each other in the way they both argue for a contemporary alternative to the traditional _master/apprentice_ relation in whihc the learnes is expected to absorb the knowledge pored from the teacher. [Lave & Wenger] introduce a _Community of Practice_ which can allow _legitimate peripheral participation_ for all new _learnes_. While [Schön] argues for establishing a _practicum_ in which the learner can train to hear to the _situation's back-talk_ and practice _reflection on action_ as a means to obtail the proficiency that is requireed to eventually practice _reflection in action_.
 
 In short, _"Failure is not an option - it's a prerequsite"_. Your first product will not be perfect, you will experience frustration, but you will produce something and you are guaranteed to learn a lot!
 
----
 </details>
 
-<details><summary><b>More materials</b> (click to expand)</summary>
+<details open><summary><h2>More materials</h2> (click to toggle expand/collapse)</summary>
 
----
 - [Official description of this elective @ kea.dk (Fall 2022 )](https://katalog.kea.dk/course/preview/5340/en-GB)
 - [Fancy PDF presentaion (work in progress)](https://drive.google.com/file/d/1p-hPY27ESRevpEuU9T9lrWLXegjt8hgi/view?usp=share_link)
 - [YouTube video presentation](https://www.youtube.com/watch?v=5P6H3BGQKAo)
 - [Discussion Forum - including Q&A session](https://github.com/orgs/kea-dpd/discussions/categories/q-a)
 
----
 </details>
