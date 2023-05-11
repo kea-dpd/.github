@@ -189,6 +189,86 @@ You will be working intensely low-code and no-code tools simply to speed things 
 ---
 </details>
 
+<details><summary><b>No-code and Low-code tools</b></summary>
+
+---
+**Think big - Start small - Scale fast**
+
+It's proverb often referred to in the SaaS (Software as a Service) and Product development communities.
+
+Our international, full-semester 30 ECTS elective “Digital Product Development” is focusing on interdisciplinary, agile teams, establishing an early contact with product sponsors, and their end-users, exploring market fit, entering into tight feed-back loops, working with Minimal Viable Product and Pretotype approaches to gain validated data-driven learnings. The intent is to develop full fledged digital products ready to ship to market or release internally into whole organizations - in just 12-16 weeks. This is not programming, this is product development. In this elective we will make _everyone_ developers - even the ones that are not necessarily tech saavy geeks. We do it by utilising No-code an Low-code tools.
+
+### No-code = Drag-n-drop programming
+
+    No-Code tools are drag-and-drop app building platforms. They are all essentially proprietary platforms. Which means that they are somebody's business and in order to utilize them you must accept an unconditional vendor lock-down and a traditional client/customer relation. Most no-code platforms often have free tiers but it’s a trend, that these tiers are meant for single-user development and climbing the learning ladder - not for hosting actual productions.
+
+### Low Code = Serverless, ecosystem development
+    
+Low-code is a term widely used, but not as rigidly defined as no-code. Low-code is a bit of a grey area: Any technology that utilizes (very) high abstraction levels, can - and does - identify themselves as low-code. 
+
+Typically low-code platforms share characteristics with no-code in the sense that they offer a full-service managed infrastructure and as such you must also accept a vendor lock-down and a traditional customer/client relation. But they differ in the sense that you are not expected to build using graphical drag-n-drop tools but rather you use actual programming languages. But utilizing very (extremely) high abstraction levels, allowing you to write only a few snippets of glue-code to produce large full-scale systems. They are code-ecosystems.
+
+### The Tech Landscape
+The tools listed below are only a small fraction of what is available. We imagine that the students will be using some of these - or similar - to develop their applications and products.
+
+#### Websites
+- [Webflow](https://webflow.com/)
+- [Weebly](https://www.weebly.com/)
+- [squarespace](https://www.squarespace.com/)
+- [wix](https://www.wix.com/)
+- [Yola](https://www.yola.com/) 
+
+#### Automation/integration
+- [Zapier](https://zapier.com/)
+- [Make](https://www.make.com/) 
+
+#### Apps
+- [Bubble](http://bubble.io/)
+- [AppSheet](https://about.appsheet.com/home/)
+- [Ui bakery](https://uibakery.io/)
+- [Shuffle](https://shuffle.dev/) 
+- [Glide Apps](https://www.glideapps.com/) 
+- [PowerApps](https://powerapps.microsoft.com/)
+- [Softr](https://www.softr.io/)
+
+#### Design To Code
+- [Locofy](https://www.locofy.ai/) 
+- [Anima](https://www.animaapp.com/)
+- [Figma](https://www.figma.com/)
+
+#### Forms
+- [Tally forms](https://tally.so/)
+
+#### Tools
+- [Airtable](https://www.airtable.com/)
+- [Baserow](https://baserow.io/) 
+- [Retool](https://retool.com/)
+- [Memberstack](https://www.memberstack.com/)
+- [Google Workspace](https://workspace.google.com/)
+- [Notion](https://www.notion.so/)
+- [GitHub](https://github.com/)
+
+#### Mail services and Marketing
+- [Drip](http://drip.com/)
+- [SendGrid](https://interactive.twilio.com/)
+- [Mailchimp](https://mailchimp.com/)
+- [Convertkit](https://convertkit.com/)
+- [Klaviyo](https://www.klaviyo.com/)
+- [Activecampaign](https://www.activecampaign.com/)
+
+#### Low Code (Serverless)
+- [Deno](https://deno.com/)
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/)
+- [Supabase](https://supabase.com/)
+- [Pocketbase](https://pocketbase.io/)
+- [Azure Functions](https://azure.microsoft.com/)
+- [AWS lambda](https://aws.amazon.com/lambda/)
+- [Google Cloud Functions](https://cloud.google.com/functions)
+    
+---    
+</details>
+
 
 <details><summary><b>Didactic approach</b> (click to expand)</summary>
 
