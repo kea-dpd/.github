@@ -200,7 +200,7 @@ Our international, full-semester 30 ECTS elective “Digital Product Development
 
 ### No-code = Drag-n-drop programming
 
-    No-Code tools are drag-and-drop app building platforms. They are all essentially proprietary platforms. Which means that they are somebody's business and in order to utilize them you must accept an unconditional vendor lock-down and a traditional client/customer relation. Most no-code platforms often have free tiers but it’s a trend, that these tiers are meant for single-user development and climbing the learning ladder - not for hosting actual productions.
+No-Code tools are drag-and-drop app building platforms. They are all essentially proprietary platforms. Which means that they are somebody's business and in order to utilize them you must accept an unconditional vendor lock-down and a traditional client/customer relation. Most no-code platforms often have free tiers but it’s a trend, that these tiers are meant for single-user development and climbing the learning ladder - not for hosting actual productions.
 
 ### Low Code = Serverless, ecosystem development
     
