@@ -69,8 +69,7 @@ timeline
 #### Intro
 Students come from all over the world to participate in this elective. Many of you are in Copenhagen for the fist time. During the intro the class is _storming._ We will familiarize you to topics like _kanban project planning_, _ideration_, _team-canvas_, _Software as a Service charactaristics_, _Design Thinking_ The last week of the intro period will be a full week of workshops on various No-code and Low-code tools which you will later exploit to develop your products.
 
-#### Meet the product sponsors
-The products you will be creating are different for each group. The problems that needs solving will derive from real-life external product sponsors, who will come and introduce their challenges, ideas and wishes. the teams are _forming_. Each team will have at least two members from each of the three domain disiplines: _Business development_, _UX and design_ and _software development_. You will work with the product sponsors to iderate, innovate and plan the actual prodcuts
+
 
 #### The Startup Way
 Taking off-set in the lean startup approach; _The Startup Way_ the teams will get started on pretotypes, Minimum Viable Prodcuts (MVP), combined with ideration and design thinking loops. Training for very (extremely) short loops of validated data-driven learning loops with focus on creating end-user segmentation and market-fit value.
