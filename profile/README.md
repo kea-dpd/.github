@@ -92,13 +92,14 @@ We will have a classroom dedicated only to this elective. It will be available a
 
 #### We are three main instructors:
 
-- [Ida](https://www.linkedin.com/in/idawinberghemmingsen/) (Multi media design)
-- [Mikkel](https://www.linkedin.com/in/mikkel-wessel-nielsen/) (Business economics and IT) 
-- [Lars](https://www.linkedin.com/in/lakruzz/) (Computer science)
-- [Herman](https://www.linkedin.com/in/hermanbailey/) (Multi media design)
+- [Ida](https://www.linkedin.com/in/idawinberghemmingsen/) (Lecturer)
+- [Mikkel](https://www.linkedin.com/in/mikkel-wessel-nielsen/) (Lecturer) 
+- [Lars](https://www.linkedin.com/in/lakruzz/) (Lecturer)
+- [Anne](https://www.linkedin.com/in/annedibbern/) (Project coach)
+- [Herman](https://www.linkedin.com/in/hermanbailey/) (Project coach)
+- [Stine](https://www.linkedin.com/in/Stine/) (Lecturer)
 
-...besides us, we will pull in more resources as we need them.
-
+ 
 #### Learning approaches:
 
 
