@@ -77,10 +77,10 @@ Taking off-set in the lean startup approach. During this theme you will be launc
 #### Scrum / Agile IT
 Learn how to kick-start, execute, and deliver your agile projects. Combining cutting-edge tools with classic agile practices, you will learn everything you need to deliver something of value every week and make rolling your software into production.
 
-#### Prepare for examn
+#### Prepare for exam
 Foot off the speeder. It's time to wrap up your learnings and prepare yourself for the examn. You may still have (some) time on the side to continue validated learning loops on your product though.
 
-#### Examn
+#### Exam
 We will be running an intense semester - and now it is time to demonstrate how your progressed and learned during the semester. 
 
 </details>
