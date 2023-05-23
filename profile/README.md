@@ -107,7 +107,7 @@ We will have a classroom dedicated only to this elective. It will be available a
 Is equvivalent to Google's renowned  _Thank god it's Friday - it's an all hands-on-deck session Where we will motivate each others, share thoughts. Get the week started with a boost.  
 
 #### Workshops and labs
-As we work our way into the products it will become clear that new knowledge must be obtained, new tech stacks must be concured, new tools must be learned, more theory must be chrunched. We will offer a new workshop on something relevant each wednesday from morning until lunch. Topics will be - whatever is needed in the context.
+As we work our way into the products it will become clear that new knowledge must be obtained, new tech stacks must be concured, new tools must be learned, more theory must be chrunched. We will offer a new workshop on something relevant . Topics will be - whatever is needed in the context.
 
 #### Individual reflections on learning  
 You will keep a worklog and add to your prjects to your own portfolio) and you need to prioritize to spend some time thinking out of the box - what are your options from here? What are your reflection on your learnings? What are your challenges and how are you going to solve them?
