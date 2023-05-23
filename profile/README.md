@@ -1,9 +1,9 @@
 # KEA - Digital Product Deveoplemnt
 
-##### [kea-dpd @ GitHub](https://github.com/kea-dpd) is the offical home of the the full-semester (30 ECTS) elective programme _Digital Prodcut Development_ at [Copenhagen School of Technology and Design](https://www.kea.dk) 
+##### [kea-dpd @ GitHub](https://github.com/kea-dpd) is where you get the short overview of the the full-semester (30 ECTS) elective programme _Digital Prodcut Development_ at [Copenhagen School of Technology and Design](https://www.kea.dk) 
 
 ## First run
-Our international, full-semester 30 ECTS elective “Digital Product Development” is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feed-back loops, working with approaches to gain data-driven learnings. The intent is to develop digital products. This is not programming, this is product development. In this elective we will make _everyone_ developers - even the ones that are not necessarily tech saavy geeks. We do it by using relevant tools.
+Our international, full-semester elective “Digital Product Development” is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feed-back loops, working with approaches to gain data-driven learnings. The intent is to develop digital products. This is not programming, this is product development. In this elective we will make _everyone_ developers - even the ones that are not necessarily tech saavy geeks. We do it by using relevant tools.
 
 This international elective programme will run for the first time from August 2023 - to X-mas 2023.
 
