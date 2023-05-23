@@ -63,7 +63,7 @@ timeline
 Students come from all over the world to participate in this elective. Many of you are in Copenhagen for the fist time. During the intro the class is _storming._ We will familiarize you to topics like Team canvas_, Design Sprint, Lean Startupkanban project planning_, _ideration_, _team-canvas_, _Design Sprint The last week of the intro period will be a full week of workshops on various No-code and Low-code tools which you will later exploit to develop your products.
 
 #### Google Design Sprint
-; _Google Design Sprint_ the teams will get started on protoyping a digital product for a external client. Training for very (extremely) short loops of learning with focus on creating end-user segmentation and market-fit value.
+The sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers.Your team will get started on protoyping a digital product for a external client. Training for very (extremely) short loops of learning with focus on creating end-user segmentation and market-fit value.
 
 #### Deep Dive 
 Intentions are fine, but nothing beats getting out of the building, challenge yourself and facing real life. It's time for you to dive deep and create your individual learning goals and develop the skills you need. Furthermore this week encourage you to encounter the real world. 
