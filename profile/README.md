@@ -90,7 +90,7 @@ We will be running an intense semester - and now it is time to demonstrate how y
 #### A co-workspace dedicated to just us
 We will have a classroom dedicated only to this elective. It will be available and accessible around the clock thoroughout the entire semester. It will be like a joint co-workspace. So you are encourgaed to spend time here, when you are not out an about getting feedback for endusers or your client. So that the entire class can benfit from each other's synergies and enthusiasm.
 
-#### We are three main instructors:
+#### We are a team of lecturers and project coaches:
 
 - [Ida](https://www.linkedin.com/in/idawinberghemmingsen/) (Lecturer)
 - [Mikkel](https://www.linkedin.com/in/mikkel-wessel-nielsen/) (Lecturer) 
