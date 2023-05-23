@@ -26,43 +26,36 @@ This international elective programme will run for the first time from August 20
 timeline
     title Digital Product Development - Autumn term 2023 (August - X-mas)
     section Intro
-      34 : Teamwork and innovation
-      35 : Software as a Service (SaaS)
-      36 : No-code & Low-code labs
-    section Meet the Product sponsors
-      37 : Presentations from sponsors
-         : Ideration
-      38 : Planning
-    section The Lean approach to Product Development 
-      39 : Pretotyping
-         : Mimum Viable Products
-      40 : Validated learning
-      41 : Eliciting data
-         : Pivot | persevere
+      34 : Teams & tools
+         : Methods
+    section Google Design Sprints
+      35 : Sprint 1
+      36 : Sprint 2
+      37 : Sprint 3
+      38 : Sprint 4
+    section Individual Deep Dive Week 
+      39 : Refelctions
+         : Get Out Of The Building
+    section The Startup Way
+      40 : Method
+         : BMC
+      41 : Build
+         : Measure
+         : Learn
     section Holidays
       42 : Autumn holidays 
-    section "Get out of the building"
-      43 : Experiment with users
-      44 : Throw it all away
-         : Built the thing again!
-    section Onboarding of real life end-users
-      45 : Campaign
-         : Know your CAC
-         : Adjust
-      46 : Know your churn
-         : Adjust
-    section Features & Data on user behaviour
-      47 : Build
-         : Measure 
-         : Learn
-      48 : ...more Build 
-         : ...more Measure 
-         : Learn more...
-    section Prepare for examn
-      49 : Coaching
-      50 : Coaching
-    section Wrap up
-      51 : Three days of examn
+    section The Startup Way
+      43 : ...
+      44 : ...
+      45 : ...
+    section Agile team 
+      46 : ...
+      47 : ...
+      48 : ...
+      49 : ...
+    section Examn
+      50 : ...
+      51 : ...
          : Home (just) before X-mas
 ```
 
