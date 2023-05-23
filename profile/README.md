@@ -99,7 +99,7 @@ We will have a classroom dedicated only to this elective. It will be available a
 
 ...besides us, we will pull in more resources as we need them.
 
-#### Learning approaches
+#### Learning approaches:
 
 
 #### Thank god its Monday
