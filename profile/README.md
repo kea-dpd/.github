@@ -60,36 +60,28 @@ timeline
 ```
 
 #### Intro
-Students come from all over the world to participate in this elective. Many of you are in Copenhagen for the fist time. During the intro the class is _storming._ We will familiarize you to topics like _kanban project planning_, _ideration_, _team-canvas_, _Software as a Service charactaristics_, _Design Thinking_ The last week of the intro period will be a full week of workshops on various No-code and Low-code tools which you will later exploit to develop your products.
+Students come from all over the world to participate in this elective. Many of you are in Copenhagen for the fist time. During the intro the class is _storming._ We will familiarize you to topics like Team canvas_, Design Sprint, Lean Startupkanban project planning_, _ideration_, _team-canvas_, _Design Sprint The last week of the intro period will be a full week of workshops on various No-code and Low-code tools which you will later exploit to develop your products.
 
+#### Google Design Sprint
+; _Google Design Sprint_ the teams will get started on protoyping a digital product for a external client. Training for very (extremely) short loops of learning with focus on creating end-user segmentation and market-fit value.
 
-
-#### The Startup Way
-Taking off-set in the lean startup approach; _The Startup Way_ the teams will get started on pretotypes, Minimum Viable Prodcuts (MVP), combined with ideration and design thinking loops. Training for very (extremely) short loops of validated data-driven learning loops with focus on creating end-user segmentation and market-fit value.
+#### Deep Dive 
+Intentions are fine, but nothing beats getting out of the building, challenge yourself and facing real life. It's time for you to dive deep and create your individual learning goals and develop the skills you need. Furthermore this week encourage you to encounter the real world. 
 
 #### Autumn Holiday
-All of week 42 the school officially has vacation. But the Schoole is open, and your team will organize yourself as you want. But be sure to take it easy.
+All of week 42 the school officially has vacation. But the School is open, and your team will organize yourself as you want. But be sure to take it easy. Make sure to take some time off to enjoy autumn in Copenhagen. 
 
-#### GOOB: _"Get out of the building"_
-Intentions are fine, but nothing beats getting out of the building and facing real life. It's time for you ideas, pretotypes, mockups and MVPs to entounter the real world. 
+#### The Startup way
+Taking off-set in the lean startup approach. During this theme you will be launching a new enterprise—whether it’s a tech start-up, a small business, or an initiative within a large corporation this is what you are going to do with your team. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. 
 
-> _"No plan survives first contact with the enemy"_
-
-Quote: Helmuth von Molthe 
-
-You'll encounter real-live and make necessary adjustments, preparing for.
-
-#### Onboarding of real-life end-users
-At this time you may already have had test or beta users on your prodcut but now it's time to initiate an actual onboardin campaign retting ready to take actual measures and elicit data.
-
-#### Features & Data on user behaviour
-During two intense weeks you'll enter into more validated learning loops, exploiting all the data you can elicit to measure on end-user behaviour and adjust your product to an even better market-fit.
+#### Scrum / Agile IT
+Learn how to kick-start, execute, and deliver your agile projects. Combining cutting-edge tools with classic agile practices, you will learn everything you need to deliver something of value every week and make rolling your software into production.
 
 #### Prepare for examn
 Foot off the speeder. It's time to wrap up your learnings and prepare yourself for the examn. You may still have (some) time on the side to continue validated learning loops on your product though.
 
 #### Examn
-We will be running an intense semester - allowing us to finish the examn and officialy end the term before X-mas so all international students can return home for the holidays.
+We will be running an intense semester - and now it is time to demonstrate how your progressed and learned during the semester. 
 
 </details>
 
@@ -97,7 +89,7 @@ We will be running an intense semester - allowing us to finish the examn and off
 
 ---
 #### A co-workspace dedicated to just us
-We will have a classroom dedicated only to this elective. It will be available and accessible around the clock thoroughout the entire semester. It will be like a joint co-workspace. So you are encourgaed to spend time here, when you are not out an about getting feedback for endusers or product sponsors. So that the entire class can benfit from each other's synergies and enthusiasm.
+We will have a classroom dedicated only to this elective. It will be available and accessible around the clock thoroughout the entire semester. It will be like a joint co-workspace. So you are encourgaed to spend time here, when you are not out an about getting feedback for endusers or your client. So that the entire class can benfit from each other's synergies and enthusiasm.
 
 #### We are three main instructors:
 
@@ -108,59 +100,31 @@ We will have a classroom dedicated only to this elective. It will be available a
 
 ...besides us, we will pull in more resources as we need them.
 
-#### Bringing order to chaos (what does a typical week looke like?)
+#### Learning approaches
 
-You will be working a lot in the individual teams, occasionally together with your external product sponsors and product end-users. but (at least) on three occasions each week during the semester will will gather the entire class.
-
-
-```mermaid
-%%{
-    init: { 
-        'logLevel': 'debug',
-        'theme': 'emerald' ,
-        'themeVariables': {
-            fontFamily : 'Oswald'
-        }
-    }
- }%%
- 
-timeline
-    title Digital Product Development - A typical week
-      Monday    : Thank god its Monday
-                : Team
-      Tuesday   : Workshops and labs
-                : Team
-      Wednesday : Team
-                : Team
-      Thursday  : Ideation and Communication
-                : Team
-      Friday    : Retrospective and Planning
-                : Team
-```
 
 #### Thank god its Monday
-Is equvivalent to Google's renowned  _Thank god it's Friday - it's an all hands-on-deck session Where we will motivate each others, share thoughts. Get the week started with a boost. One of us will be there from morning to lunch to facilitate.
+Is equvivalent to Google's renowned  _Thank god it's Friday - it's an all hands-on-deck session Where we will motivate each others, share thoughts. Get the week started with a boost.  
 
 #### Workshops and labs
 As we work our way into the products it will become clear that new knowledge must be obtained, new tech stacks must be concured, new tools must be learned, more theory must be chrunched. We will offer a new workshop on something relevant each wednesday from morning until lunch. Topics will be - whatever is needed in the context.
 
-#### Ideation and Communication
-On Thursdays you will write-up a formal status to your product spoonsor (and your own portfolio) and spend some time thinking out of the box - what are your options from here? One of us will be there from morning to lunch to facilitate.
+#### Individual reflections on learning  
+You will keep a worklog and add to your prjects to your own portfolio) and you need to prioritize to spend some time thinking out of the box - what are your options from here? What are your reflection on your learnings? What are your challenges and how are you going to solve them?
 
-#### Retrospective and Planning
-Each Friday you will conduct an  internal team retrospective to discuss and maybe adjust your roles in the team and then you will need to look ahead into the upcomming week. Go through your backlog, priritize your tasks. One of us will be with your from morning until lunch to facilitate this endeavour and to guide you if you have questions.
+#### Retrospective and Planning in teams
+Each week you will conduct an internal team retrospective to discuss and maybe adjust your roles in the team and then you will need to look ahead and implement your learnings in your team. 
 
-#### Team: Fill in the blanks
-The Team spots are blank spots. In a typical week this is where the team will focus on team stuff. But it doesn't mean that you are on your own. Each team will be given a pile of jetons at the begining of the semester, which can be traded in for guidance, coaching, mentoring and facilitations as you need it. We will make our calendars available to you, so you can book us in our availabel time slots.
+#### Team work: Fill in the blanks
+The Team spots are blank spots. Each team will be given tools and methods on how to navigate as a strong team. Furthermore, you and your team will be given guidance, coaching, mentoring and facilitations as you need it. 
 
-#### "Intro" and "Meet the sponsors" are different
-The first two sections of the semester are not typical weeks; in the first 3 intro weeks we will work a different program. And the two weeks set aside to iderate and innovate with the product sponsors will also be slightly different.
-
+#### Working on real challenges for real clients
+You and your team will be working with real clients and real challenges. You will be collaborating with selected clients in order to develop relevant digital products. 
 </details>
 
 <details open><summary><h2>Teams and roles</h2> (click to toggle expand/collapse)</summary>
 
-As participants at this elective you will work in team of at least six people. You will assume dedicated roles of proffesion, and each team vill have two team members in each role so you can spare and cover for each other.
+As participants at this elective you will work in team. You will assume dedicated roles of proffesion, and each team vill have team members in each role so you can spare and cover for each other.
 
 #### Business Developers
 Will be responsible for covering knowledge, skills and compentencies regarding how to uncover and adjust the market fit of the product. Engage with the intented end-users, customer segmentation, overall planning. 
@@ -174,7 +138,7 @@ Will be responsible for covering knowledge, skills and compentencies on how to c
 #### T-Shaped people
 With the roles described above, it's important to emphasize that you work as a team, and ideally you are all contributing to all areas - you will become _T-shaped;_ at the same time representing both broad knowledge, and yet specialized in certain fields. This is how a team covers most ground.
 
-You will be working intensely low-code and no-code tools simply to speed things up.
+You will be working intensely with relevant tools simply to speed things up.
 
 </details>
 
@@ -182,77 +146,10 @@ You will be working intensely low-code and no-code tools simply to speed things 
 
 **Think big - Start small - Scale fast**
 
-It's proverb often referred to in the SaaS (Software as a Service) and Product development communities.
 
-Our international, full-semester 30 ECTS elective “Digital Product Development” is focusing on interdisciplinary, agile teams, establishing an early contact with product sponsors, and their end-users, exploring market fit, entering into tight feed-back loops, working with Minimal Viable Product and Pretotype approaches to gain validated data-driven learnings. The intent is to develop full fledged digital products ready to ship to market or release internally into whole organizations - in just 12-16 weeks. This is not programming, this is product development. In this elective we will make _everyone_ developers - even the ones that are not necessarily tech saavy geeks. We do it by utilising No-code an Low-code tools.
+Our international, full-semester 30 ECTS elective “Digital Product Development” is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feed-back loops, working with approaches to gain validated data-driven learnings. The intent is to develop digital products. This is not programming, this is product development. In this elective we will make _everyone_ developers - even the ones that are not necessarily tech saavy geeks. We do it by using relevant tools.
 
-### No-code = Drag-n-drop programming
 
-No-Code tools are drag-and-drop app building platforms. They are all essentially proprietary platforms. Which means that they are somebody's business and in order to utilize them you must accept an unconditional vendor lock-down and a traditional client/customer relation. Most no-code platforms often have free tiers but it’s a trend, that these tiers are meant for single-user development and climbing the learning ladder - not for hosting actual productions.
-
-### Low Code = Serverless, ecosystem development
-    
-Low-code is a term widely used, but not as rigidly defined as no-code. Low-code is a bit of a grey area: Any technology that utilizes (very) high abstraction levels, can - and does - identify themselves as low-code. 
-
-Typically low-code platforms share characteristics with no-code in the sense that they offer a full-service managed infrastructure and as such you must also accept a vendor lock-down and a traditional customer/client relation. But they differ in the sense that you are not expected to build using graphical drag-n-drop tools but rather you use actual programming languages. But utilizing very (extremely) high abstraction levels, allowing you to write only a few snippets of glue-code to produce large full-scale systems. They are code-ecosystems.
-
-### The Tech Landscape
-The tools listed below are only a small fraction of what is available. We imagine that the students will be using some of these - or similar - to develop their applications and products.
-
-#### Websites
-- [Webflow](https://webflow.com/)
-- [Weebly](https://www.weebly.com/)
-- [squarespace](https://www.squarespace.com/)
-- [wix](https://www.wix.com/)
-- [Yola](https://www.yola.com/) 
-
-#### Automation/integration
-- [Zapier](https://zapier.com/)
-- [Make](https://www.make.com/) 
-
-#### Apps
-- [Bubble](http://bubble.io/)
-- [AppSheet](https://about.appsheet.com/home/)
-- [Ui bakery](https://uibakery.io/)
-- [Shuffle](https://shuffle.dev/) 
-- [Glide Apps](https://www.glideapps.com/) 
-- [PowerApps](https://powerapps.microsoft.com/)
-- [Softr](https://www.softr.io/)
-
-#### Design To Code
-- [Locofy](https://www.locofy.ai/) 
-- [Anima](https://www.animaapp.com/)
-- [Figma](https://www.figma.com/)
-
-#### Forms
-- [Tally forms](https://tally.so/)
-
-#### Tools
-- [Airtable](https://www.airtable.com/)
-- [Baserow](https://baserow.io/) 
-- [Retool](https://retool.com/)
-- [Memberstack](https://www.memberstack.com/)
-- [Google Workspace](https://workspace.google.com/)
-- [Notion](https://www.notion.so/)
-- [GitHub](https://github.com/)
-
-#### Mail services and Marketing
-- [Drip](http://drip.com/)
-- [SendGrid](https://interactive.twilio.com/)
-- [Mailchimp](https://mailchimp.com/)
-- [Convertkit](https://convertkit.com/)
-- [Klaviyo](https://www.klaviyo.com/)
-- [Activecampaign](https://www.activecampaign.com/)
-
-#### Low Code (Serverless)
-- [Deno](https://deno.com/)
-- [Flutter](https://flutter.dev/)
-- [Firebase](https://firebase.google.com/)
-- [Supabase](https://supabase.com/)
-- [Pocketbase](https://pocketbase.io/)
-- [Azure Functions](https://azure.microsoft.com/)
-- [AWS lambda](https://aws.amazon.com/lambda/)
-- [Google Cloud Functions](https://cloud.google.com/functions)
     
 </details>
 
@@ -267,10 +164,5 @@ In short, _"Failure is not an option - it's a prerequsite"_. Your first product 
 </details>
 
 <details open><summary><h2>More materials</h2> (click to toggle expand/collapse)</summary>
-
-- [Official description of this elective @ kea.dk (Fall 2022 )](https://katalog.kea.dk/course/preview/5340/en-GB)
-- [Fancy PDF presentaion (work in progress)](https://drive.google.com/file/d/1p-hPY27ESRevpEuU9T9lrWLXegjt8hgi/view?usp=share_link)
-- [YouTube video presentation](https://www.youtube.com/watch?v=5P6H3BGQKAo)
-- [Discussion Forum - including Q&A session](https://github.com/orgs/kea-dpd/discussions/categories/q-a)
 
 </details>
