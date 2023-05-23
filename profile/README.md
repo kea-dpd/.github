@@ -64,10 +64,10 @@ Students come from all over the world to participate in this elective. Many of y
     
 
 #### Google Design Sprint
-The sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers.Your team will get started on protoyping a digital product for a external client. Training for very (extremely) short loops of learning with focus on creating end-user segmentation and market-fit value.
+The sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. Your team will get started on protoyping a digital product for an external client. You will be training for very (extremely) short loops of learning with weekly feedback from the client. You will finalize your digital product and present the final solution in the end.  
 
 #### Deep Dive 
-Intentions are fine, but nothing beats getting out of the building, challenge yourself and facing real life. It's time for you to dive deep and create your individual learning goals and develop the skills you need. Furthermore this week encourage you to encounter the real world. 
+It's time for you to dive deep and create your individual learning goals and develop the skills you need. Furthermore this week encourage you to encounter the real world. Intentions are fine, but nothing beats getting out of the building, challenge yourself and facing real life. 
 
 #### Autumn Holiday
 All of week 42 the school officially has vacation. But the School is open, and your team will organize yourself as you want. But be sure to take it easy. Make sure to take some time off to enjoy autumn in Copenhagen. 
@@ -79,10 +79,10 @@ Taking off-set in the lean startup approach. During this theme you will be launc
 Learn how to kick-start, execute, and deliver your agile projects. Combining cutting-edge tools with classic agile practices, you will learn everything you need to deliver something of value every week and make rolling your software into production.
 
 #### Prepare for exam
-Foot off the speeder. It's time to wrap up your learnings and prepare yourself for the examn. You may still have (some) time on the side to continue validated learning loops on your product though.
+Foot off the speeder. It's time to wrap up your learnings and prepare yourself for the examn. You may still have (some) time on the side to continue learning loops on your product though.
 
 #### Exam
-We will be running an intense semester - and now it is time to demonstrate how your progressed and learned during the semester. 
+We will be running an intense semester - and now it is time to demonstrate how your progressed and learned during the semester. The exam will be based on your
 
 </details>
 
