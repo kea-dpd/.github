@@ -81,14 +81,8 @@ Learn how to kick-start, execute, and deliver your agile projects. Combining cut
 #### Prepare for exam
 Foot off the speeder. It's time to wrap up your learnings and prepare yourself for the examn. You may still have (some) time on the side to continue learning loops on your product though.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-#### Examn
-We will be running an intense semester - and now it is time to demonstrate how your progressed and learned during the semester. The exam will be an individual oral exam based on your individual reflection, worklog and portfolio. 
-=======
-=======
 #### Exam
-We will be running an intense semester - and now it is time to demonstrate how your progressed and learned during the semester. The exam will be based on your
+We will be running an intense semester - and now it is time to demonstrate how your progressed and learned during the semester. The exam will be based on your worklog, portfolio and individual reflection.
 
 <details open><summary><h2>Organization</h2> (click to toggle expand/collapse)</summary>
 
