@@ -3,10 +3,9 @@
 ##### [kea-dpd @ GitHub](https://github.com/kea-dpd) is the offical home of the the full-semester (30 ECTS) elective programme _Digital Prodcut Development_ at [Copenhagen School of Technology and Design](https://www.kea.dk) 
 
 ## First run
+Our international, full-semester 30 ECTS elective “Digital Product Development” is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feed-back loops, working with approaches to gain data-driven learnings. The intent is to develop digital products. This is not programming, this is product development. In this elective we will make _everyone_ developers - even the ones that are not necessarily tech saavy geeks. We do it by using relevant tools.
 
 This international elective programme will run for the first time from August 2023 - to X-mas 2023.
-
-
 
 <details open><summary><h2>Details</h2> (click to toggle expand/collapse)</summary>
 
@@ -60,7 +59,9 @@ timeline
 ```
 
 #### Intro
-Students come from all over the world to participate in this elective. Many of you are in Copenhagen for the fist time. During the intro the class is _storming._ We will familiarize you to topics like Team canvas_, Design Sprint, Lean Startupkanban project planning_, _ideration_, _team-canvas_, _Design Sprint The last week of the intro period will be a full week of workshops on various No-code and Low-code tools which you will later exploit to develop your products.
+Students come from all over the world to participate in this elective. Many of you are in Copenhagen for the fist time. During the intro the class is _storming._ We will introduce you to your lecturers, your team and familiarize you to methods and tools that you are going to learn during the semester. 
+    
+    
 
 #### Google Design Sprint
 The sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers.Your team will get started on protoyping a digital product for a external client. Training for very (extremely) short loops of learning with focus on creating end-user segmentation and market-fit value.
