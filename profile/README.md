@@ -72,7 +72,7 @@ It's time for you to dive deep and create your individual learning goals and dev
 #### The Startup Way
 Taking off-set in the lean startup approach. During this theme you will be launching a new enterprise—whether it’s a tech start-up, a small business, or an initiative within a large corporation this is what you are going to do with your team. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. 
 
-#### Agile Teams
+#### Agile Development
 Learn how to kickstart, execute, and deliver your agile projects. Combining cutting-edge tools with classic agile practices, you will learn everything you need to deliver something of value every week and develop products in iterations.
 
 #### Prepare for exam
