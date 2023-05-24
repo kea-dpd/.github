@@ -1,11 +1,11 @@
 # KEA - Digital Product Deveoplemnt
 
-##### [kea-dpd @ GitHub](https://github.com/kea-dpd) is where you get the short overview of the the full-semester (30 ECTS) elective programme _Digital Prodcut Development_ at [Copenhagen School of Technology and Design](https://www.kea.dk) 
+##### [kea-dpd @ GitHub](https://github.com/kea-dpd) is where you get the short overview of the the full-semester (30 ECTS) elective programme _Digital Product Development_ at [Copenhagen School of Technology and Design](https://www.kea.dk) 
 
 ## First run
-Our international, full-semester elective “Digital Product Development” is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feed-back loops, working with approaches to gain data-driven learnings. The intent is to develop digital products. This is not programming, this is product development. In this elective we will make _everyone_ developers - even the ones that are not necessarily tech saavy geeks. We do it by using relevant tools.
+Our international, full-semester elective Digital Product Development is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feedback loops, working with approaches to gain data-driven learnings. The intent is to develop digital products. This is not programming, this is product development.
 
-This international elective programme will run for the first time from August 2023 - to X-mas 2023.
+This international elective programme will run from August 2023 to December 2023.
 
 <details open><summary><h2>Details</h2> (click to toggle expand/collapse)</summary>
 
@@ -72,23 +72,23 @@ It's time for you to dive deep and create your individual learning goals and dev
 #### Autumn Holiday
 All of week 42 the school officially has vacation. But the School is open, and your team will organize yourself as you want. But be sure to take it easy. Make sure to take some time off to enjoy autumn in Copenhagen. 
 
-#### The Startup way
+#### The Startup Way
 Taking off-set in the lean startup approach. During this theme you will be launching a new enterprise—whether it’s a tech start-up, a small business, or an initiative within a large corporation this is what you are going to do with your team. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. 
 
-#### Scrum / Agile IT
-Learn how to kick-start, execute, and deliver your agile projects. Combining cutting-edge tools with classic agile practices, you will learn everything you need to deliver something of value every week and make rolling your software into production.
+#### Agile Teams
+Learn how to kickstart, execute, and deliver your agile projects. Combining cutting-edge tools with classic agile practices, you will learn everything you need to deliver something of value every week and develop products in iterations.
 
 #### Prepare for exam
-Foot off the speeder. It's time to wrap up your learnings and prepare yourself for the examn. You may still have (some) time on the side to continue learning loops on your product though.
+Foot off the speeder. It's time to wrap up your learnings and prepare yourself for the exam. You may still have (some) time on the side to continue learning loops on your product though.
 
 #### Exam
-We will be running an intense semester - and now it is time to demonstrate how your progressed and learned during the semester. The exam will be an indivudal oral exam based on your portfolio, worklog and individual reflection.
+We will be running an intense semester - and now it is time to demonstrate how you have progressed and learned during the semester. The exam will be an indivudal oral exam based on your portfolio, worklog and an individual reflection paper.
 
 <details open><summary><h2>Organization</h2> (click to toggle expand/collapse)</summary>
 
 ---
 #### A co-workspace dedicated to just us
-We will have a classroom dedicated only to this elective. It will be available and accessible around the clock thoroughout the entire semester. It will be like a joint co-workspace. So you are encourgaed to spend time here, when you are not out an about getting feedback for endusers or your client. So that the entire class can benfit from each other's synergies and enthusiasm.
+We will have a classroom dedicated only to this elective. It will be available and accessible around the clock thoroughout the entire semester. It will be like a joint co-workspace. So you are encourgaed to spend time here, when you are not out getting feedback from users or your client.
 
 #### We are a team of lecturers and project coaches:
 
@@ -104,7 +104,7 @@ We will have a classroom dedicated only to this elective. It will be available a
 
 
 #### Thank god its Monday
-Is equvivalent to Google's renowned  _Thank god it's Friday - it's an all hands-on-deck session Where we will motivate each others, share thoughts. Get the week started with a boost.  
+Is equvivalent to Google's renowned Thank god it's Friday - it's an all hands-on-deck session Where we will motivate each others, share thoughts. Get the week started with a boost.  
 
 #### Workshops and labs
 As we work our way into the products it will become clear that new knowledge must be obtained, new tech stacks must be concured, new tools must be learned, more theory must be chrunched. We will offer a new workshop on something relevant . Topics will be - whatever is needed in the context.
@@ -124,10 +124,10 @@ You and your team will be working with real clients and real challenges. You wil
 
 <details open><summary><h2>Teams and roles</h2> (click to toggle expand/collapse)</summary>
 
-As participants at this elective you will work in team. You will assume dedicated roles of proffesion, and each team vill have team members in each role so you can spare and cover for each other.
+As participants at this elective you will work in teams. You will assume dedicated roles of proffesion, and each team vill have team members in each role so you can spare and cover for each other.
 
 #### Business Developers
-Will be responsible for covering knowledge, skills and compentencies regarding how to uncover and adjust the market fit of the product. Engage with the intented end-users, customer segmentation, overall planning. 
+Will be responsible for covering knowledge, skills and compentencies regarding how to uncover and adjust the market fit of the product. Engage with the intented end-users, customer segmentation, overall planning.
 
 #### UX'er and marketeer
 Will be responsible for covering knowledge, skills and compentencies regarding how to elicit data on the user experience, create delicious products that impress and delight, make onboarding easy and painless.
@@ -147,7 +147,7 @@ You will be working intensely with relevant tools simply to speed things up.
 **Think big - Start small - Scale fast**
 
 
-Our international, full-semester 30 ECTS elective “Digital Product Development” is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feed-back loops, working with approaches to gain validated data-driven learnings. The intent is to develop digital products. This is not programming, this is product development. In this elective we will make _everyone_ developers - even the ones that are not necessarily tech saavy geeks. We do it by using relevant tools.
+Our international, full-semester 30 ECTS elective Digital Product Development is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feed-back loops, working with approaches to gain validated data-driven learnings. The intent is to develop digital products. This is not programming, this is product development.
 
 
     
