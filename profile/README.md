@@ -157,22 +157,20 @@ Ida Winberg Hemmingsen: idwh@kea.dk
 Anne Dibbern: Annd@kea.dk
 </details>
 
-#### IT & Service desk
+#### IT & Service desk:
 If you are having difficulties logging in, problems with WiFi, printers or other IT or A/V related issues, you can always contact KEA Service Desk.
 
-KEA Service Desk can be contacted in one of the following ways:
-Personal attendance: Frontdesk is where you can meet KEA Service Desk for individual enquiries. Frontdesk is open from 8AM til 3PM and you find them by the receptions at Guldbergsgade and Lygten 16.
 Email: Ask for help via SERVICEDESK@KEA.DK 
 Web: Ask for help via the SERVICE PORTAL
 Phone: Call KEA Service Desk (+45) 46 46 00 46
 </details>
 
-#### Information about studying at KEA
+#### Information about studying at KEA:
 KEA Study guide: https://mit.kea.dk/en/studyguide
 KEAs website: https://bibliotek.kea.dk/en/
 KEA Global: https://global.kea.dk/student-mobility/incoming-exchange
 
-#### Location 
+#### Location: 
 KEA - COPENHAGEN SCHOOL OF DESIGN AND TECHNOLOGY
 Guldbergsgade 29N
 DK-2200 Copenhagen N
