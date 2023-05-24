@@ -79,7 +79,7 @@ Learn how to kickstart, execute, and deliver your agile projects. Combining cutt
 Foot off the speeder. It's time to wrap up your learnings and prepare yourself for the exam. You may still have (some) time on the side to continue learning loops on your product though.
 
 #### Exam
-We will be running an intense semester - and now it is time to demonstrate how you have progressed and learned during the semester. The exam will be an indivudal oral exam based on your portfolio, worklog and an individual reflection paper.
+We will be running an intense semester - and now it is time to demonstrate how you have progressed and learned during the semester. The exam will be an indivudal oral exam based on your portfolio, worklog and an individual synopsis.
 
 <details open><summary><h2>Organization</h2> (click to toggle expand/collapse)</summary>
 
