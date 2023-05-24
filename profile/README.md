@@ -141,38 +141,45 @@ You will be working intensely with relevant tools simply to speed things up.
 
 Our international, full-semester 30 ECTS elective Digital Product Development is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feed-back loops, working with approaches to gain validated data-driven learnings. The intent is to develop digital products. This is not programming, this is product development.
 
-</details>
 
 <details open><summary><h2>More materials</h2> (click to toggle expand/collapse)</summary>
-
-</details>
-</details>
 
 
 Please don´t hestitate to reach out if you have any questions:
 
 #### Contact info: 
+
 Ida Winberg Hemmingsen: idwh@kea.dk
-</details>
+
+Mikkel Wessel Nielsen: miwn@kea.dk
+    
 Anne Dibbern: Annd@kea.dk
-</details>
+
 
 #### IT & Service desk:
 If you are having difficulties logging in, problems with WiFi, printers or other IT or A/V related issues, you can always contact KEA Service Desk.
 
 Email: Ask for help via SERVICEDESK@KEA.DK or call KEA Service Desk: (+45) 46 46 00 46
-</details>
+
 
 #### Information about studying at KEA:
+
 KEA Study guide: https://mit.kea.dk/en/studyguide
+
 KEAs website: https://bibliotek.kea.dk/en/
+
 KEA Global: https://global.kea.dk/student-mobility/incoming-exchange
 
+    
 #### Location: 
+
 KEA - COPENHAGEN SCHOOL OF DESIGN AND TECHNOLOGY
+
 Guldbergsgade 29N
+
 DK-2200 Copenhagen N
 
 kea@kea.dk
+
 +45 46 46 00 00
 </details>
