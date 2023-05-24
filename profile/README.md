@@ -165,6 +165,16 @@ Email: Ask for help via SERVICEDESK@KEA.DK
 Web: Ask for help via the SERVICE PORTAL
 Phone: Call KEA Service Desk (+45) 46 46 00 46
 
-#### Information about studying at KEA can be found at
-in the Study guide: https://mit.kea.dk/en/studyguide
+#### Information about studying at KEA
+KEA Study guide: https://mit.kea.dk/en/studyguide
+KEAs website: https://bibliotek.kea.dk/en/
+KEA Global: https://global.kea.dk/student-mobility/incoming-exchange
+
+#### Location 
+KEA - COPENHAGEN SCHOOL OF DESIGN AND TECHNOLOGY
+Guldbergsgade 29N
+DK-2200 Copenhagen N
+
+kea@kea.dk
++45 46 46 00 00
 </details>
