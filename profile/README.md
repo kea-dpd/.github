@@ -148,12 +148,12 @@ Our international, full-semester 30 ECTS elective Digital Product Development is
 </details>
 </details>
 
-#### Contact information and practical information:
 
 Please don´t hestitate to reach out if you have any questions:
 
 #### Contact info: 
 Ida Winberg Hemmingsen: idwh@kea.dk
+</details>
 Anne Dibbern: Annd@kea.dk
 
 #### IT & Service desk
