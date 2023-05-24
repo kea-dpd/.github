@@ -139,17 +139,7 @@ You will be working intensely with relevant tools simply to speed things up.
 
 </details>
 
-<details open><summary><h2>No-code and Low-code tools</h2> (click to toggle expand/collapse)</summary>
-
-
 Our international, full-semester 30 ECTS elective Digital Product Development is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feed-back loops, working with approaches to gain validated data-driven learnings. The intent is to develop digital products. This is not programming, this is product development.
-
-
-    
-</details>
-
-<details open><summary><h2>Didactic approach</h2> (click to toggle expand/collapse)</summary>
-
 
 </details>
 
