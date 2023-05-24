@@ -69,9 +69,6 @@ The sprint is a five-day process for answering critical business questions throu
 #### Deep Dive 
 It's time for you to dive deep and create your individual learning goals and develop the skills you need. Furthermore this week encourage you to encounter the real world. Intentions are fine, but nothing beats getting out of the building, challenge yourself and facing real life. 
 
-#### Autumn Holiday
-All of week 42 the school officially has vacation. But the School is open, and your team will organize yourself as you want. But be sure to take it easy. Make sure to take some time off to enjoy autumn in Copenhagen. 
-
 #### The Startup Way
 Taking off-set in the lean startup approach. During this theme you will be launching a new enterprise—whether it’s a tech start-up, a small business, or an initiative within a large corporation this is what you are going to do with your team. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. 
 
