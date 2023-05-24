@@ -148,14 +148,15 @@ Our international, full-semester 30 ECTS elective Digital Product Development is
 </details>
 </details>
 
-Contact information and practical information:
+#### Contact information and practical information:
 
 Please don´t hestitate to reach out if you have any questions:
 
-Contact info: 
+#### Contact info: 
 Ida Winberg Hemmingsen: idwh@kea.dk
 Anne Dibbern: Annd@kea.dk
 
+#### IT & Service desk
 If you are having difficulties logging in, problems with WiFi, printers or other IT or A/V related issues, you can always contact KEA Service Desk.
 
 KEA Service Desk can be contacted in one of the following ways:
@@ -164,6 +165,6 @@ Email: Ask for help via SERVICEDESK@KEA.DK
 Web: Ask for help via the SERVICE PORTAL
 Phone: Call KEA Service Desk (+45) 46 46 00 46
 
-Further information about studying at KEA can be found at
+#### Information about studying at KEA can be found at
 in the Study guide: https://mit.kea.dk/en/studyguide
 </details>
