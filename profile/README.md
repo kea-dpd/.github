@@ -141,8 +141,6 @@ You will be working intensely with relevant tools simply to speed things up.
 
 <details open><summary><h2>No-code and Low-code tools</h2> (click to toggle expand/collapse)</summary>
 
-**Think big - Start small - Scale fast**
-
 
 Our international, full-semester 30 ECTS elective Digital Product Development is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feed-back loops, working with approaches to gain validated data-driven learnings. The intent is to develop digital products. This is not programming, this is product development.
 
@@ -152,11 +150,6 @@ Our international, full-semester 30 ECTS elective Digital Product Development is
 
 <details open><summary><h2>Didactic approach</h2> (click to toggle expand/collapse)</summary>
 
-Our didactic focus throughtout this elective will be inspired by forming a _Community of Practice_ [Lave & Wenger] and on facilitating _reflective practitioners_ [Schön]. 
-
-These didactive disiplines support each other in the way they both argue for a contemporary alternative to the traditional _master/apprentice_ relation in whihc the learnes is expected to absorb the knowledge pored from the teacher. [Lave & Wenger] introduce a _Community of Practice_ which can allow _legitimate peripheral participation_ for all new _learnes_. While [Schön] argues for establishing a _practicum_ in which the learner can train to hear to the _situation's back-talk_ and practice _reflection on action_ as a means to obtail the proficiency that is requireed to eventually practice _reflection in action_.
-
-In short, _"Failure is not an option - it's a prerequsite"_. Your first product will not be perfect, you will experience frustration, but you will produce something and you are guaranteed to learn a lot!
 
 </details>
 
