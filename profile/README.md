@@ -160,9 +160,7 @@ Anne Dibbern: Annd@kea.dk
 #### IT & Service desk:
 If you are having difficulties logging in, problems with WiFi, printers or other IT or A/V related issues, you can always contact KEA Service Desk.
 
-Email: Ask for help via SERVICEDESK@KEA.DK 
-Web: Ask for help via the SERVICE PORTAL
-Phone: Call KEA Service Desk (+45) 46 46 00 46
+Email: Ask for help via SERVICEDESK@KEA.DK or call KEA Service Desk: (+45) 46 46 00 46
 </details>
 
 #### Information about studying at KEA:
