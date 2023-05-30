@@ -1,4 +1,4 @@
-# KEA - Digital Product Deveoplemnt
+# KEA - Digital Product Development
 
 ##### [kea-dpd @ GitHub](https://github.com/kea-dpd) is where you get the short overview of the the full-semester (30 ECTS) elective programme _Digital Product Development_ at [Copenhagen School of Technology and Design](https://www.kea.dk).
 
