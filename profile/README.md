@@ -9,53 +9,7 @@ This international elective programme will run from August 2023 to December 2023
 
 <details open><summary><h2>Details</h2> (click to toggle expand/collapse)</summary>
 
-### Prelimiary semester plan
 
-```mermaid
-%%{
-    init: { 
-        'logLevel': 'debug',
-        'theme': 'emerald' ,
-        'themeVariables': {
-            fontFamily : 'Oswald'
-        }
-    }
- }%%
-    
-timeline
-    title Digital Product Development - Autumn term 2023 (August - X-mas)
-    section Intro
-      34 : Teams & tools
-         : Methods
-    section Google Design Sprints
-      35 : Sprint 1
-      36 : Sprint 2
-      37 : Sprint 3
-      38 : Sprint 4
-    section Deep Dive Week 
-      39 : Refelctions
-         : Get Out Of The Building
-    section The Startup Way
-      40 : Method
-         : BMC
-      41 : Build
-         : Measure
-         : Learn
-    section Holidays
-      42 : Autumn holidays 
-    section The Startup Way
-      43 : ...
-      44 : ...
-      45 : ...
-    section Scrum / Agile IT
-      46 : ...
-      47 : ...
-      48 : ...
-      49 : ...
-    section Examn
-      50 : ...
-      51 : ...
-         : Home (just) before X-mas
 ```
 
 #### Intro
