@@ -7,15 +7,10 @@ Our international, full-semester elective Digital Product Development is focusin
 
 This international elective programme will run from August 2023 to December 2023.
 
-<details open><summary><h2>Details</h2> (click to toggle expand/collapse)</summary>
-
-
-```
+<details><summary><h2>Details</h2> (click to toggle expand/collapse)</summary>
 
 #### Intro
 Students come from all over the world to participate in this elective. Many of you are in Copenhagen for the fist time. During the intro the class is _storming._ We will introduce you to your lecturers, your team and familiarize you to methods and tools that you are going to learn during the semester. 
-    
-    
 
 #### Google Design Sprint
 The sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with customers. Your team will get started on protoyping a digital product for an external client. You will be training for very (extremely) short loops of learning with weekly feedback from the client. You will finalize your digital product and present the final solution in the end.  
