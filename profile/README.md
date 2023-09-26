@@ -42,7 +42,6 @@ We will have a classroom dedicated only to this elective. It will be available a
 - [Mikkel](https://www.linkedin.com/in/mikkel-wessel-nielsen/) (Lecturer) 
 - [Lars](https://www.linkedin.com/in/lakruzz/) (Lecturer)
 - [Anne](https://www.linkedin.com/in/annedibbern/) (Project coach)
-- [Herman](https://www.linkedin.com/in/hermanbailey/) (Project coach)
 - [Stine](https://www.linkedin.com/in/Stine/) (Lecturer)
 
  
