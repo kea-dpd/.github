@@ -100,6 +100,8 @@ Please don´t hestitate to reach out if you have any questions:
 
 Ida Winberg Hemmingsen: idwh@kea.dk
 
+Lars Kruse: lakr@kea.dk
+
 Mikkel Wessel Nielsen: miwn@kea.dk
     
 Anne Dibbern: Annd@kea.dk
