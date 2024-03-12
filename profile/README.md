@@ -5,8 +5,7 @@
 ## First run
 Our international, full-semester elective Digital Product Development is focusing on interdisciplinary, agile teams, establishing an early contact with companies, and their end-users, exploring market fit, entering into feedback loops, working with approaches to gain data-driven learnings. The intent is to develop digital products. This is not programming, this is product development.
 
-This international elective programme will run from August 2023 to December 2023.
-
+This international elective programme will start every semester (summer/winther)
 <details><summary><h2>Details</h2> (click to toggle expand/collapse)</summary>
 
 #### Intro
