@@ -39,9 +39,8 @@ We will have a classroom dedicated only to this elective. It will be available a
 
 - [Ida](https://www.linkedin.com/in/idawinberghemmingsen/) (Lecturer)
 - [Mikkel](https://www.linkedin.com/in/mikkel-wessel-nielsen/) (Lecturer) 
-- [Lars](https://www.linkedin.com/in/lakruzz/) (Lecturer)
-- [Anne](https://www.linkedin.com/in/annedibbern/) (Project coach)
-- [Stine](https://www.linkedin.com/in/Stine/) (Lecturer)
+- [Jaron](https://www.linkedin.com/in/) (Lecturer)
+- [Anne](https://www.linkedin.com/in/annedibbern/) (International Coordinator)
 
  
 #### Learning approaches:
@@ -98,7 +97,7 @@ Please don´t hestitate to reach out if you have any questions:
 
 Ida Winberg Hemmingsen: idwh@kea.dk
 
-Lars Kruse: lakr@kea.dk
+Jaron Kahalani: jkah@kea.dk
 
 Mikkel Wessel Nielsen: miwn@kea.dk
     
